@@ -1,0 +1,8 @@
+{
+  "name": "@raerpo/avocados",
+  "description": "Get a random number of avocados",
+  "private": false,
+  "main": "index.js",
+  "version": "1.0.1",
+  "license": "MIT"
+}
